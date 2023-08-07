@@ -21,12 +21,12 @@
 * It is a detailed set of instructions or steps designed to validate a specific functionality or behavior of a software system. It includes preconditions, inputs, expected outcomes, and post-conditions. Test cases serve as executable documentation to verify that the software meets the specified requirements and performs as expected.
 * File uploaded in the repo of main branch.
 
-# Test Execution Document
-* It refers to the process of running test cases and evaluating software behavior against expected outcomes. During this phase, testers execute the prepared test cases and record the actual results. It helps identify defects and ensures the software's compliance with requirements before release.
-* File uploaded in the repo of main branch.
-
 # Test Enviroment Document
 * It is a dedicated setup that replicates the production environment for testing software applications. It includes hardware, software, network configurations, and databases necessary to conduct thorough testing. The test environment ensures accurate simulation of real-world scenarios, enabling testers to identify and resolve issues before the software is deployed to the production environment.
+* File uploaded in the repo of main branch.
+  
+# Test Execution Document
+* It refers to the process of running test cases and evaluating software behavior against expected outcomes. During this phase, testers execute the prepared test cases and record the actual results. It helps identify defects and ensures the software's compliance with requirements before release.
 * File uploaded in the repo of main branch.
 
 # Bug Report Document
