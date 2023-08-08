@@ -1,5 +1,6 @@
 # Opencart Ecommerce Website_Manual Testing
 * This repository contains a comprehensive manual testing report for a well-known eCommerce website built on the OpenCart platform. The document includes a detailed examination and assessment of various functionalities, features, and user interactions within the online store. The testing process involved meticulous hands-on exploration of the website to identify and verify potential issues, ensuring its functionality meets the desired standards. This extensive manual testing report serves as a valuable resource for evaluating the website's performance, user experience, and overall quality.
+* Link : https://www.opencart.com
 
 # Functional Requirement Specification (FRS) Report
 * It is a concise and detailed document outlining the functional capabilities and features required for a software system or application. It defines how the system should behave in response to specific inputs and conditions, specifying the expected outputs. FRS serves as a blueprint that guides the development team in designing and implementing the software to meet the client's needs and expectations accurately.
