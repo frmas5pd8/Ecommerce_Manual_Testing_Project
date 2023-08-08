@@ -12,11 +12,6 @@
 * File uploaded in the repo of main branch. Also shared a link of file.
 * Link : https://drive.google.com/file/d/19ZBriwKMOyJrGK-4Fu7V5R7rj89sqJVE/view?usp=drive_link
   
-# Test Strategy Document
-* It is a high-level document that outlines the overall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
-* File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
-  
 # Test Scenario Document
 * It is a specific set of test cases that collectively verify a particular aspect or functionality of a software application. It defines the conditions, actions, and expected results to test a specific requirement or feature. Test scenarios help ensure comprehensive testing coverage and aid in identifying defects early in the testing process.
 * File uploaded in the repo of main branch. Also shared a link of file.
@@ -27,7 +22,7 @@
 * File uploaded in the repo of main branch. Also shared a link of file.
 * Link : https://docs.google.com/spreadsheets/d/1tkTXe4FqXdRhEyLhWnLpAN6WzbvEprHT/edit?usp=sharing&ouid=106596647200074532753&rtpof=true&sd=true
   
-# Test Enviroment Document
+# Test Environment Document
 * It is a dedicated setup that replicates the production environment for testing software applications. It includes hardware, software, network configurations, and databases necessary to conduct thorough testing. The test environment ensures accurate simulation of real-world scenarios, enabling testers to identify and resolve issues before the software is deployed to the production environment.
 * File uploaded in the repo of main branch. Also shared a link of file.
 * Link : 
