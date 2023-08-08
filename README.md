@@ -9,7 +9,7 @@
 # Test Plan Document
 * It is a comprehensive document that outlines the approach, objectives, scope, resources, and schedule for testing a software application or system. It defines the testing strategies, test cases, and methodologies to ensure thorough verification and validation of the software's functionality. The test plan serves as a roadmap for the testing process, ensuring that all aspects of the software are examined to identify and resolve any issues before its release.
 * File uploaded in the repo of main branch. Also shared a link of file.
-* Link : 
+* Link : https://drive.google.com/file/d/19ZBriwKMOyJrGK-4Fu7V5R7rj89sqJVE/view?usp=drive_link
   
 # Test Strategy Document
 * It is a high-level document that outlines the overall approach, objectives, and scope of testing for a software project. It defines the testing techniques, tools, resources, and timelines to be used during the testing process. The test strategy ensures alignment with project goals, quality standards, and stakeholders' expectations, providing a framework to guide the detailed test planning and execution phases.
